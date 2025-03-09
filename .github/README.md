@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
      ──
-       「⛦ 𝗠𝗨𝗦𝗜𝗖 ⛦」
+       「🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸」
     ──
 </h2>
 
@@ -14,17 +14,17 @@
     
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/WCGKING/BrandrdXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/isagzbyk46/baygitarist"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=720&lines=⚠️+FORKE+THIS+REPO+THEN+USE+AND+GIVE+STAR+ASLO+⚠️+...................">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=720&lines=⚠️+GİTARİST+MUSİC+SİZLERE+SAYGILAR+SUNAR+⚠️+#ADMİN">
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables]( https://github.com/Learningbots79/LB_Music/master/sample.env)
+- Get your [Necessary Variables]( https://github.com/isagzbyk46/LB_Music/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
@@ -48,7 +48,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/Learningbots79/LB_Music && cd LB_Music
+   git clone https://github.com/isagzbyk46/LB_Music.git
    ```
 6. **Install Requirements**
    ```bash
@@ -80,11 +80,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/learning_bots"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gitaristmusic12"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/learningbots79"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/gitaristmusic"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/BRANDRD_BOT)_</b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/isagzbyk46) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/gitaristmusic12)_</b>
