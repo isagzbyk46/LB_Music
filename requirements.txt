@@ -57,5 +57,4 @@ openai==0.28.0
 mpv
 moviepy
 lyricsgenius
-pymongo==3.11.4
-
+pymongo>=4.5
