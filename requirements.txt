@@ -58,4 +58,4 @@ mpv
 moviepy
 lyricsgenius
 pymongo==3.11.4
-motor==2.5.1
+
